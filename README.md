@@ -1,3 +1,3 @@
 # Rumor-detection
 This is a project that helps people to determine cross platform rumors.
-We used three algorithms to 
+We used three algorithms to train the processed data.
